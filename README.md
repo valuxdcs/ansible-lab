@@ -21,7 +21,7 @@ This lab can be used to experiment around with the power of [Ansible](https://ww
 On a Ubuntu based machine the following commands can be used to install the latest version of Vagrant
 
     wget -c https://releases.hashicorp.com/vagrant/2.0.3/vagrant_2.0.3_x86_64.deb
-    sudo dpkg -i vagrant_2.0.3_x86_64.deb`
+    sudo dpkg -i vagrant_2.0.3_x86_64.deb
 
 After successful installation also add the vagrant-hosts plugin which will be used to register all Vagrant machines in hosts file.
 
